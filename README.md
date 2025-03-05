@@ -64,6 +64,6 @@ npm run deploy
 ```
 
 ## 📝 License
-This project is licensed under the MIT License. See [LICENSE](https://github.com/emonbhuiyan/emon.one?tab=MIT-1-ov-file) for details.
+This project is licensed under the MIT License. See [View License](LICENSE) for details.
 
 🔹 Feel free to fork, modify, and use this project as a template for your own portfolio! 😊
