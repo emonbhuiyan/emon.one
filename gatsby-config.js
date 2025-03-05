@@ -4,9 +4,9 @@ module.exports = {
     description: `My personal portfolio website`,
     author: `@emonbhuiyan`,
   },
-  pathPrefix: "/emon.one",
+ 
   plugins: [
-    `gatsby-plugin-react-helmet-canonical`,
+    `gatsby-plugin-react-helmet`,
     `gatsby-transformer-sharp`,
     `gatsby-plugin-sharp`,
     `gatsby-plugin-image`,
