@@ -1,20 +1,19 @@
-import React from "react"
+import React from "react";
 
 export const Logo = () => {
   return (
     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 185 208.4">
-      <!-- Hexagonal background -->
+      {/* Hexagonal background */}
       <path
         fill="#00cf5d"
         d="M176.6 46L100.9 2.2c-5.2-3-11.6-3-16.7 0L8.4 46C3.2 49 0 54.5 0 60.5V148c0 6 3.2 11.5 8.4 14.5l75.8 43.7c5.2 3 11.6 3 16.7 0l75.8-43.7c5.2-3 8.4-8.5 8.4-14.5V60.5c-.1-6-3.3-11.5-8.5-14.5z"
       />
 
-      <!-- 'e' with a gap at the top -->
+      {/* 'e' with a gap at the top */}
       <path
         fill="white"
         d="M130 120.5c0 13.8-11.2 25-25 25H80c-13.8 0-25-11.2-25-25V88.5c0-13.8 11.2-25 25-25h30c6.9 0 12.5 5.6 12.5 12.5S116.9 88.5 110 88.5H85c-2.8 0-5 2.2-5 5v7.5h35c3.1 0 5.5 2.5 5.5 5.5s-2.5 5.5-5.5 5.5H80v13.5c0 2.8 2.2 5 5 5h25c2.8 0 5-2.2 5-5 0-3.1 2.5-5.5 5.5-5.5s5.5 2.5 5.5 5.5z"
       />
     </svg>
-
-  )
-}
+  );
+};
