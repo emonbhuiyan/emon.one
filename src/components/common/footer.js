@@ -51,7 +51,7 @@ export const Footer = () => {
               </li>
             </ul>
             <p>
-              By Me{" "}
+              By z.me{" "}
               <span onClick={handleScroll}>
                 <FaAngleUp />
               </span>

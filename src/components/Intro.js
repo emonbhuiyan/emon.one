@@ -11,17 +11,18 @@ const Intro = () => {
       <Container>
         <div className="intro">
           <div className="intro-text">
-            <p>Hello! I am</p>
-            <h1>Zonayed Ahmed</h1>
-            <h3>Full Stack Developer</h3>
-            <ul>
-              <li>Web Developer</li>
-              <li>Programmer</li>
-              <li>Software Engineer</li>
-            </ul>
+          <h1>Emon Bhuiyan</h1>
+          <h2>Freelancer & IT Professional</h2>
+          <ul>
+            <li>Data Analyst</li>
+            <li>Web Researcher</li>
+            <li>Virtual Assistant</li>
+            <li>SEO Specialist</li>
+            <li>WordPress Expert</li>
+          </ul>
             <div className="action">
               <Button
-                link="https://github.com/zonayedpca/zonayed.me/raw/master/src/data/file/MyResume.pdf"
+                link="https://github.com/emonbhuiyan/emon.one/raw/master/src/data/file/MyResume.pdf"
                 target="__blank"
                 bgColor="#00cf5d"
                 title="Get Resume"

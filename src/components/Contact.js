@@ -12,9 +12,7 @@ const Contact = () => {
         <div className="contact">
           <div className="contact-status">
             <p>
-              I am interested in working with any company that thinks my skill
-              will be helpful for them. If you are looking for someone like me,
-              please let me know. Or you can just 'say hi' to me.
+            I'm open to collaborating with companies that can benefit from my skills in IT, data analysis, web research, virtual assistance, SEO, and WordPress. If you're looking for someone like me, feel free to reach out—or just say hi!
             </p>
             <div>
               <Button
@@ -22,7 +20,7 @@ const Contact = () => {
                 mt="25px"
                 bgColor="#00cf5d"
                 color="#fff"
-                link="mailto:zonayedpca@gmail.com"
+                link="mailto:mdemonbhuiyan@live.com"
               />
             </div>
           </div>
@@ -31,24 +29,24 @@ const Contact = () => {
               <li>
                 <h5>Email</h5>
                 <p>
-                  zonayedpca@gmail.com <span>(Recommended)</span>
+                mdemonbhuiyan@live.com <span>(Recommended)</span>
                 </p>
               </li>
               <li>
                 <h5>Skype</h5>
                 <p>
-                  zonayedpca <span>(Always Available)</span>
+                  live:mdemonbhuiyan <span>(Always Available)</span>
                 </p>
               </li>
               <li>
                 <h5>Social</h5>
                 <p>
-                  Facebook/Twitter - @zonayedpca <span>(Slow response)</span>
+                  Facebook - @emoncontact <span>(Slow response)</span>
                 </p>
               </li>
               <li>
                 <h5>Address</h5>
-                <p>Gouripur, Daudkandi, Cumilla, Bangladesh - 3517</p>
+                <p>Dhaka, Bangladesh - 1200</p>
               </li>
             </ul>
           </div>

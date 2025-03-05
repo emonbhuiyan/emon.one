@@ -14,18 +14,11 @@ const About = () => {
         <div className="about">
           <div className="about-details">
             <p>
-              Hello! I'm Zonayed Ahmed, a passionate software engineer. I
-              develop web applications, mobile applications, and desktop
-              applications. My core skill is based on JavaScript and I love to
-              do most of the things using JavaScript. I love to make the web
-              more open to the world. I have graduated with a bachelor's degree
-              in Computer Science Engineering from Chandigarh University at
-              Punjab, India in 2020. I am available for any kind of job
-              opportunity that suits my interests.
+            Hello! I'm Emon Bhuiyan, a passionate freelancer specializing in IT, data analysis, web research, virtual assistance, SEO, and WordPress. I thrive on solving problems, ensuring data accuracy, and optimizing digital workflows. With a keen eye for detail, I strive to deliver high-quality results. I'm open to exciting opportunities—let's connect!
             </p>
             <div className="about-action">
               <Button
-                link="https://github.com/zonayedpca/zonayed.me/raw/master/src/data/file/MyResume.pdf"
+                link="https://github.com/emonbhuiyan/emon.one/raw/master/src/data/file/MyResume.pdf"
                 target="_blank"
                 bgColor="#00cf5d"
                 title="Get Resume"

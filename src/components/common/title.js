@@ -1,10 +1,9 @@
 import React from "react"
 import {
   FaGithub,
-  FaCodepen,
   FaLinkedinIn,
-  FaMediumM,
   FaTwitter,
+  FaFacebook,
 } from "react-icons/fa"
 
 import "./title.css"
@@ -21,7 +20,7 @@ export const Title = ({ title, social, side, height }) => {
             <a
               target="_blank"
               rel="noopener noreferrer"
-              href="https://github.com/zonayedpca"
+              href="https://github.com/emonbhuiyan"
             >
               <FaGithub />
             </a>
@@ -30,16 +29,16 @@ export const Title = ({ title, social, side, height }) => {
             <a
               target="_blank"
               rel="noopener noreferrer"
-              href="https://codepen.io/zonayedpca"
+              href="https://facebook.com/emoncontact"
             >
-              <FaCodepen />
+              <FaFacebook />
             </a>
           </li>
           <li>
             <a
               target="_blank"
               rel="noopener noreferrer"
-              href="https://www.linkedin.com/in/zonayedpca"
+              href="https://www.linkedin.com/in/emonbhuiyan"
             >
               <FaLinkedinIn />
             </a>
@@ -48,16 +47,7 @@ export const Title = ({ title, social, side, height }) => {
             <a
               target="_blank"
               rel="noopener noreferrer"
-              href="https://medium.com/@zonayedpca"
-            >
-              <FaMediumM />
-            </a>
-          </li>
-          <li>
-            <a
-              target="_blank"
-              rel="noopener noreferrer"
-              href="https://twitter.com/zonayedpca"
+              href="https://twitter.com/itsEmonBhuiyan"
             >
               <FaTwitter />
             </a>
