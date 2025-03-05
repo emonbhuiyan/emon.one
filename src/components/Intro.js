@@ -23,7 +23,7 @@ const Intro = () => {
           </ul>
             <div className="action">
               <Button
-                link="https://github.com/emonbhuiyan/emon.one/raw/master/src/data/file/MyResume.pdf"
+                link="https://github.com/emonbhuiyan/emon.one/raw/main/src/data/file/MyResume.pdf"
                 target="__blank"
                 bgColor="#00cf5d"
                 title="Get Resume"

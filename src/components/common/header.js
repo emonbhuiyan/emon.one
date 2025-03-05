@@ -96,7 +96,7 @@ const Header = () => {
                 className="btn-download"
                 target="_blank"
                 rel="noopener noreferrer"
-                href="https://github.com/emonbhuiyan/emon.one/raw/master/src/data/file/MyResume.pdf"
+                href="https://github.com/emonbhuiyan/emon.one/raw/main/src/data/file/MyResume.pdf"
               >
                 Resume
               </a>

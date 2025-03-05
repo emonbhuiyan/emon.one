@@ -1,5 +1,7 @@
 import zakatCalculatorImg from "./image/Zakat-Calculator.jpg";
 import goldWeightCalculator from "./image/Gold-Weight-Calculator.jpg";
+import redsocksOpenwrt from "./image/Redsocks-OpenWRT.jpg";
+import bdixOpenwrt from "./image/BDIX-OpenWRT.jpg";
 
 export const portfolios = {
   Web: [
@@ -37,7 +39,7 @@ export const portfolios = {
     {
       type: "featured",
       name: "Redsocks OpenWRT",
-      image: require("./image/Redsocks-OpenWRT.jpg"),
+      image: redsocksOpenwrt,
       description:
         "A tutorial and installation script for configuring Redsocks on OpenWRT routers, making it easier for BDIX bypass users in Bangladesh to use the SOCKS5 proxy.",
       source: "https://github.com/emonbhuiyan/Redsocks-OpenWRT",
@@ -46,7 +48,7 @@ export const portfolios = {
     {
       type: "featured",
       name: "BDIX OpenWRT",
-      image: require("./image/BDIX-OpenWRT.jpg"),
+      image: bdixOpenwrt,
       description:
         "A customized Redsocks extension for BDIX proxy users in Bangladesh, enabling easy configuration of the SOCKS5 proxy on OpenWRT routers.",
       source: "https://github.com/emonbhuiyan/BDIX-OpenWRT",

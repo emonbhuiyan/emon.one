@@ -18,7 +18,7 @@ const About = () => {
             </p>
             <div className="about-action">
               <Button
-                link="https://github.com/emonbhuiyan/emon.one/raw/master/src/data/file/MyResume.pdf"
+                link="https://github.com/emonbhuiyan/emon.one/raw/main/src/data/file/MyResume.pdf"
                 target="_blank"
                 bgColor="#00cf5d"
                 title="Get Resume"
