@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: `Emon.One | Full Stack Developer`,
+    title: `Freelancer & IT Professional`,
     description: `My personal portfolio website`,
     author: `@itsEmonBhuiyan`,
   },
