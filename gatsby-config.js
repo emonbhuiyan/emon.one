@@ -6,7 +6,7 @@ module.exports = {
   },
   pathPrefix: "/emon.one",
   plugins: [
-    `gatsby-plugin-react-helmet`,
+    `gatsby-plugin-react-helmet-canonical`,
     `gatsby-transformer-sharp`,
     `gatsby-plugin-sharp`,
     `gatsby-plugin-image`,
