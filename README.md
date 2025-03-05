@@ -1,12 +1,11 @@
 # 🌟 Emon Bhuiyan - Personal Portfolio  
 
-[![Website](https://img.shields.io/badge/Live%20Demo-emon.one-blue?style=for-the-badge)](https://emon.one/)  
-[![GitHub Repo](https://img.shields.io/badge/GitHub-Repository-black?style=for-the-badge&logo=github)](https://github.com/emonbhuiyan/emon.one)  
+[![Website](https://img.shields.io/badge/Live%20Demo-emon.one-blue?style=for-the-badge)](https://emon.one/) [![GitHub Repo](https://img.shields.io/badge/GitHub-Repository-black?style=for-the-badge&logo=github)](https://github.com/emonbhuiyan/emon.one)  
 
 ## 📌 Overview  
 This is my **personal portfolio website**, built with **GatsbyJS**, to showcase my skills, projects, and professional background. The website is designed to be **fast, modern, and mobile-friendly**.  
 
-> **Originally developed by [Zonayed](https://github.com/zonayedpca)**. This version is customized and maintained by **[Emon Bhuiyan]**.  
+> **Originally developed by [Zonayed](https://github.com/zonayedpca)**. This version is customized and maintained by **[Emon Bhuiyan](https://github.com/emonbhuiyan/)**.  
 
 ## 🎨 Features  
 ✅ **Responsive & Mobile-Friendly** – Works seamlessly across all devices.  
@@ -22,6 +21,7 @@ This is my **personal portfolio website**, built with **GatsbyJS**, to showcase 
 - **Deployment**: ![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-222222?style=flat&logo=github&logoColor=white)  
 
 ## 📂 Folder Structure  
+`
 /emon.one
 │── src/
 │   ├── assets/         # Images, fonts, icons
@@ -33,28 +33,33 @@ This is my **personal portfolio website**, built with **GatsbyJS**, to showcase 
 │── package.json        # Dependencies and scripts
 │── README.md           # Project documentation
 │── LICENSE             # MIT License
+`
 
 
 ## 🚀 Installation & Setup  
 ### 1️⃣ Clone the repository  
-```bash
+`
 git clone https://github.com/emonbhuiyan/emon.one.git
 cd emon.one
+`
 
 ### 2️⃣ Install dependencies
-```bash
+`
 npm install
+`
 
 ### 3️⃣ Start the development server
-```bash
+`
 npm run develop
+`
 
 ## 🌍 Deployment
 This portfolio is automatically deployed using **GitHub Pages**.
 To deploy manually, run:
-```bash
+`
 npm run build
 npm run deploy
+`
 
 ## 📝 License
 This project is licensed under the MIT License. See [LICENSE](https://github.com/emonbhuiyan/emon.one?tab=MIT-1-ov-file) for details.
