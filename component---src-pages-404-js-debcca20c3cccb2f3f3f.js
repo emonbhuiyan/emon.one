@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkemon_one=self.webpackChunkemon_one||[]).push([[125],{3331:function(e,t,n){n.r(t);var l=n(6540),a=n(3641);t.default=()=>l.createElement(a.PE,null,l.createElement(a.kW,{title:"404: Not found"}),l.createElement("div",{className:"not-found-container"},l.createElement("h1",null,"NOT FOUND"),l.createElement("p",null,"OOPS! You just hit a page that doesn't exist...")))}}]);
+//# sourceMappingURL=component---src-pages-404-js-debcca20c3cccb2f3f3f.js.map
