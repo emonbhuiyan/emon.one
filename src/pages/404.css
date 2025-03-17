@@ -1,4 +1,9 @@
 .not-found-container {
-    padding: 100px 25px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    min-height: calc(100vh - 200px); /* Adjust the height to account for header and footer */
+    padding: 20px;
     text-align: center;
   }
