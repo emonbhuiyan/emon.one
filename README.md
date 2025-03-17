@@ -65,6 +65,7 @@ This is my **personal portfolio website**, built with **GatsbyJS**, to showcase 
 │   │   └── skills.js
 │   ├── pages/          # Page files (e.g., Home, About, Contact)
 │   │   ├── 404.js
+│   │   └── 404.css     # CSS for 404 page
 │   │   └── index.js
 │── static/             # Static files
 │   └── CNAME
