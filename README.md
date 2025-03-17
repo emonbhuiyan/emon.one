@@ -25,14 +25,58 @@ This is my **personal portfolio website**, built with **GatsbyJS**, to showcase 
 /emon.one
 │── src/
 │   ├── assets/         # Images, fonts, icons
+│   │   └── image/
 │   ├── components/     # Reusable React components
+│   │   ├── common/
+│   │   │   ├── button.css
+│   │   │   ├── button.js
+│   │   │   ├── container.css
+│   │   │   ├── container.js
+│   │   │   ├── footer.css
+│   │   │   ├── footer.js
+│   │   │   ├── header.css
+│   │   │   ├── header.js
+│   │   │   ├── index.js
+│   │   │   ├── layout.css
+│   │   │   ├── layout.js
+│   │   │   ├── logo.js
+│   │   │   ├── seo.js
+│   │   │   ├── title.css
+│   │   │   └── title.js
+│   │   ├── about.css
+│   │   ├── About.js
+│   │   ├── contact.css
+│   │   ├── Contact.js
+│   │   ├── index.js
+│   │   ├── intro.css
+│   │   ├── Intro.js
+│   │   ├── lovetodo.css
+│   │   ├── LoveToDo.js
+│   │   ├── portfolio.css
+│   │   ├── Portfolio.js
+│   │   ├── portfolioaction.css
+│   │   ├── PortfolioAction.js
+│   │   ├── skill.css
+│   │   └── Skill.js
+│   ├── data/
+│   │   ├── index.js
+│   │   ├── languages.js
+│   │   ├── portfolios.js
+│   │   └── skills.js
 │   ├── pages/          # Page files (e.g., Home, About, Contact)
+│   │   ├── 404.js
+│   │   └── index.js
 │── static/             # Static files
+│   └── CNAME
 │── .github/workflows/  # GitHub Actions for CI/CD
+│   └── deploy.yml
+│── CNAME
+│── gatsby-browser.js
 │── gatsby-config.js    # Gatsby configuration
+│── gatsby-node.js
+│── gatsby-ssr.js
 │── package.json        # Dependencies and scripts
 │── README.md           # Project documentation
-│── LICENSE             # MIT License
 ```
 
 
