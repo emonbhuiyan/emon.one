@@ -18,8 +18,7 @@ const Intro = () => {
             <li>Data Analyst</li>
             <li>Web Researcher</li>
             <li>Virtual Assistant</li>
-            <li>SEO Specialist</li>
-            <li>WordPress Expert</li>
+            <li>WordPress Developer</li>
           </ul>
             <div className="action">
               <Button

@@ -7,7 +7,7 @@ export const languages = [
   {
     id: "English",
     text: "Thanks",
-    progress: 75,
+    progress: 90,
   },
   {
     id: "Urdu",
@@ -15,13 +15,8 @@ export const languages = [
     progress: 50,
   },
   {
-    id: "Hindi",
-    text: "धन्यवाद",
+    id: "Arabic",
+    text: "شكرا",
     progress: 50,
-  },
-  {
-    id: "Punjabi",
-    text: "ਧੰਨਵਾਦ",
-    progress: 20,
   },
 ]

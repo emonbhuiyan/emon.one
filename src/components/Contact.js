@@ -35,7 +35,7 @@ const Contact = () => {
               <li>
                 <h5>Skype</h5>
                 <p>
-                  live:mdemonbhuiyan <span>(Always Available)</span>
+                  live:mdemonbhuiyan <span>(Seems it will down at May 2025, I will add something else here later.)</span>
                 </p>
               </li>
               <li>

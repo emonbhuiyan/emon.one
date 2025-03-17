@@ -14,7 +14,7 @@ const About = () => {
         <div className="about">
           <div className="about-details">
             <p>
-            Hello! I'm Emon Bhuiyan, a passionate freelancer specializing in IT, data analysis, web research, virtual assistance, SEO, and WordPress. I thrive on solving problems, ensuring data accuracy, and optimizing digital workflows. With a keen eye for detail, I strive to deliver high-quality results. I'm open to exciting opportunities—let's connect!
+            Hello! I'm Emon Bhuiyan, a passionate freelancer specializing in IT, data analysis, web research, virtual assistance, and WordPress. I thrive on solving problems, ensuring data accuracy, and optimizing digital workflows. With a keen eye for detail, I strive to deliver high-quality results. I'm open to exciting opportunities—let's connect!
             </p>
             <div className="about-action">
               <Button
