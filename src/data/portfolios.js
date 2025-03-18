@@ -43,7 +43,16 @@ export const portfolios = {
         "A lightweight and user-friendly tool for adding icons to website menus effortlessly, enhancing navigation and user experience",
       demo: "https://github.com/emonbhuiyan/Easy-Menu-Icons/releases/tag/v1.0.0",
       source: "https://github.com/emonbhuiyan/Easy-Menu-Icons",
-      tools: ["HTML", "CSS", "JavaScript", "PHP"],
+      tools: ["HTML", "JavaScript", "PHP"],
+    },
+    {
+      type: "regular",
+      name: "Sokal BD 24",
+      description:
+        "A dynamic and user-friendly news website delivering the latest updates, articles, and reports with a clean and engaging design.",
+      demo: "https://www.sokalbd24.com/",
+      source: null,
+      tools: ["WordPress"]
     },
   ],
   Networking: [
