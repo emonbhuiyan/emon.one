@@ -1,5 +1,6 @@
 import zakatCalculatorImg from "./image/Zakat-Calculator.jpg";
 import goldWeightCalculator from "./image/Gold-Weight-Calculator.jpg";
+import xRatePro from "./image/XRate-Pro.jpg";
 import redsocksOpenwrt from "./image/Redsocks-OpenWRT.jpg";
 import bdixOpenwrt from "./image/BDIX-OpenWRT.jpg";
 
@@ -24,6 +25,16 @@ export const portfolios = {
       demo: "https://emonbhuiyan.github.io/Gold-Weight-Calculator/",
       source: "https://github.com/emonbhuiyan/Gold-Weight-Calculator",
       tools: ["HTML", "CSS", "JavaScript"],
+    },
+    {
+      type: "featured",
+      name: "XRate Pro",
+      image: xRatePro,
+      description:
+        "A powerful currency exchange calculator that provides real-time and historical exchange rates with a sleek, user-friendly interface.",
+      demo: "https://xratepro.emon.one/",
+      source: "https://github.com/emonbhuiyan/XRate-Pro",
+      tools: ["HTML", "Exchange API", "JavaScript"],
     },
     {
       type: "regular",

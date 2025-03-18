@@ -25,7 +25,7 @@ const LoveToDo = () => {
           </div>
           <div className="stickpad">
             <img alt="" src={learningnewthings} />
-            <h4>Learning New Things</h4>
+            <h4>Learning</h4>
           </div>
           <div className="stickpad">
             <img alt="" src={cooking} />
