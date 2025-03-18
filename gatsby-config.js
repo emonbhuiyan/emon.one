@@ -1,7 +1,7 @@
 module.exports = {
   siteMetadata: {
-    title: `Freelancer & IT Professional`,
-    description: `My personal portfolio website`,
+    title: `Freelancer | IT & Data Professional`,
+    description: `Showcasing my expertise in IT, data analysis, web research, SEO, WordPress, and more. Explore my projects, skills, and experience.`,
     author: `@itsEmonBhuiyan`,
   },
  

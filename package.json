@@ -1,7 +1,7 @@
 {
   "name": "emon.one",
   "private": true,
-  "description": "My personal portfolio website",
+  "description": "A modern and professional portfolio website showcasing my skills, experience, and projects.",
   "version": "2.0.1",
   "author": "Emon Bhuiyan <contact@emon.one>",
   "dependencies": {
