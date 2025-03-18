@@ -3,16 +3,16 @@
     .st0 { fill: none; stroke: #00cf5d; stroke-width: 16; stroke-linecap: round; stroke-linejoin: round; }
   </style>
   
-  <!-- Adjusted Cooking Pot with width 420 -->
-  <rect class="st0" x="25" y="140" width="420" height="280" rx="20" ry="20"/>
+  <!-- Centered Cooking Pot -->
+  <rect class="st0" x="25" y="95" width="420" height="340" rx="20" ry="20"/>
   
-  <!-- Adjusted Pot Handles -->
-  <line class="st0" x1="5" y1="190" x2="25" y2="190"/>
-  <line class="st0" x1="445" y1="190" x2="465" y2="190"/>
+  <!-- Centered Pot Handles -->
+  <line class="st0" x1="5" y1="145" x2="25" y2="145"/>
+  <line class="st0" x1="445" y1="145" x2="465" y2="145"/>
   
-  <!-- Adjusted Steam Lines -->
-  <path class="st0" d="M110 90c-14 14-14 34 0 48"/>
-  <path class="st0" d="M210 80c-16 16-16 40 0 56"/>
-  <path class="st0" d="M310 90c-14 14-14 34 0 48"/>
+  <!-- Centered Steam Lines -->
+  <path class="st0" d="M110 45c-14 14-14 34 0 48"/>
+  <path class="st0" d="M210 35c-16 16-16 40 0 56"/>
+  <path class="st0" d="M310 45c-14 14-14 34 0 48"/>
 </svg>
 
