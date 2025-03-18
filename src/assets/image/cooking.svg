@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 470 470">
+  <style>
+    .st0 { fill: none; stroke: #00cf5d; stroke-width: 14; stroke-linecap: round; stroke-linejoin: round; }
+  </style>
+  
+  <!-- Cooking pot -->
+  <rect class="st0" x="120" y="180" width="230" height="160" rx="20" ry="20"/>
+  
+  <!-- Pot handles -->
+  <line class="st0" x1="100" y1="220" x2="120" y2="220"/>
+  <line class="st0" x1="350" y1="220" x2="370" y2="220"/>
+  
+  <!-- Steam lines -->
+  <path class="st0" d="M170 140c-10 10-10 25 0 35"/>
+  <path class="st0" d="M210 130c-12 12-12 30 0 42"/>
+  <path class="st0" d="M250 140c-10 10-10 25 0 35"/>
+</svg>
