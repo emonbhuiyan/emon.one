@@ -72,10 +72,7 @@ This is my **personal portfolio website**, built with **GatsbyJS**, to showcase 
 │── .github/workflows/  # GitHub Actions for CI/CD
 │   └── deploy.yml
 │── CNAME
-│── gatsby-browser.js
 │── gatsby-config.js    # Gatsby configuration
-│── gatsby-node.js
-│── gatsby-ssr.js
 │── package.json        # Dependencies and scripts
 │── README.md           # Project documentation
 ```
