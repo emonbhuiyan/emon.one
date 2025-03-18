@@ -3,6 +3,7 @@ import React from "react"
 import { Container, Title } from "./common"
 
 import travelling from "../assets/image/travelling.svg"
+import readingbooks from "../assets/image/readingbooks.svg"
 import learningnewthings from "../assets/image/learningnewthings.svg"
 import cooking from "../assets/image/cooking.svg"
 
@@ -17,6 +18,10 @@ const LoveToDo = () => {
           <div className="stickpad">
             <img alt="" src={travelling} />
             <h4>Travelling</h4>
+          </div>
+          <div className="stickpad">
+            <img alt="" src={readingbooks} />
+            <h4>Reading Books</h4>
           </div>
           <div className="stickpad">
             <img alt="" src={learningnewthings} />
