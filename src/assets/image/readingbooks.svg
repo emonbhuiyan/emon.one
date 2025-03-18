@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 470 470">
+  <style>
+    .st0 { fill: none; stroke: #00cf5d; stroke-width: 16; stroke-linecap: round; stroke-linejoin: round; }
+  </style>
+
+  <!-- Enlarged Open Book touching viewBox -->
+  <path class="st0" d="M10 430c80-80 210-80 210 0V80c-80-40-160-40-210 0z"/>
+  <path class="st0" d="M460 430c-80-80-210-80-210 0V80c80-40 160-40 210 0z"/>
+
+  <!-- Book Pages (Spine) -->
+  <line class="st0" x1="235" y1="100" x2="235" y2="420"/>
+
+  <!-- Reading Person (Head) -->
+  <circle class="st0" cx="235" cy="50" r="30"/>
+  
+</svg>
+

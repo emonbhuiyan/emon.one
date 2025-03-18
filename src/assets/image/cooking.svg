@@ -4,7 +4,7 @@
   </style>
   
   <!-- Centered Cooking Pot -->
-  <rect class="st0" x="25" y="95" width="420" height="340" rx="20" ry="20"/>
+  <rect class="st0" x="25" y="95" width="420" height="350" rx="20" ry="20"/>
   
   <!-- Centered Pot Handles -->
   <line class="st0" x1="5" y1="145" x2="25" y2="145"/>
