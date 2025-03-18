@@ -1,17 +1,18 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 470 470">
   <style>
-    .st0 { fill: none; stroke: #00cf5d; stroke-width: 14; stroke-linecap: round; stroke-linejoin: round; }
+    .st0 { fill: none; stroke: #00cf5d; stroke-width: 16; stroke-linecap: round; stroke-linejoin: round; }
   </style>
   
-  <!-- Cooking pot -->
-  <rect class="st0" x="120" y="180" width="230" height="160" rx="20" ry="20"/>
+  <!-- Adjusted Cooking Pot with width 420 -->
+  <rect class="st0" x="25" y="140" width="420" height="280" rx="20" ry="20"/>
   
-  <!-- Pot handles -->
-  <line class="st0" x1="100" y1="220" x2="120" y2="220"/>
-  <line class="st0" x1="350" y1="220" x2="370" y2="220"/>
+  <!-- Adjusted Pot Handles -->
+  <line class="st0" x1="5" y1="190" x2="25" y2="190"/>
+  <line class="st0" x1="445" y1="190" x2="465" y2="190"/>
   
-  <!-- Steam lines -->
-  <path class="st0" d="M170 140c-10 10-10 25 0 35"/>
-  <path class="st0" d="M210 130c-12 12-12 30 0 42"/>
-  <path class="st0" d="M250 140c-10 10-10 25 0 35"/>
+  <!-- Adjusted Steam Lines -->
+  <path class="st0" d="M110 90c-14 14-14 34 0 48"/>
+  <path class="st0" d="M210 80c-16 16-16 40 0 56"/>
+  <path class="st0" d="M310 90c-14 14-14 34 0 48"/>
 </svg>
+
