@@ -1,6 +1,6 @@
 /**
  * SEO component that queries for data with
- *  Gatsby's useStaticQuery React hook
+ * Gatsby's useStaticQuery React hook
  *
  * See: https://www.gatsbyjs.org/docs/use-static-query/
  */
@@ -26,6 +26,7 @@ function SEO({ description, lang, meta, title }) {
   )
 
   const metaDescription = description || site.siteMetadata.description
+  const gtmId = 'GTM-W5VV2CXJ'; // Your Google Tag Manager ID
 
   return (
     <Helmet
@@ -84,7 +85,30 @@ function SEO({ description, lang, meta, title }) {
           content: metaDescription,
         },
       ].concat(meta)}
-    />
+    >
+      {/* Google Tag Manager (noscript) */}
+      <noscript>
+        <iframe
+          src={`https://www.googletagmanager.com/ns.html?id=${gtmId}`}
+          height="0"
+          width="0"
+          style={{ display: 'none', visibility: 'hidden' }}
+        ></iframe>
+      </noscript>
+      {/* End Google Tag Manager (noscript) */}
+
+      {/* Google Tag Manager */}
+      <script>
+        {`
+          (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+          new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+          j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+          'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+          })(window,document,'script','dataLayer','${gtmId}');
+        `}
+      </script>
+      {/* End Google Tag Manager */}
+    </Helmet>
   )
 }
 
