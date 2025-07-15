@@ -96,6 +96,11 @@ function SEO({ description, lang, meta, title }) {
           name: `twitter:description`,
           content: metaDescription,
         },
+        // 🚀 Add your Google AdSense verification meta tag here 🚀
+        {
+          name: "google-adsense-account",
+          content: "ca-pub-7572753633323368",
+        },
       ].concat(meta)}
     />
   )
