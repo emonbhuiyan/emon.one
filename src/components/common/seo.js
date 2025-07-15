@@ -102,6 +102,13 @@ function SEO({ description, lang, meta, title }) {
           content: "ca-pub-7572753633323368",
         },
       ].concat(meta)}
+      // 🚨 THIS IS WHERE THE GTM SCRIPT IS ACTUALLY INJECTED INTO THE <head> 🚨
+      script={[
+        {
+          type: "text/javascript",
+          innerHTML: gtmScript, // Using innerHTML to inject the script content
+        },
+      ]}
     />
   )
 }
