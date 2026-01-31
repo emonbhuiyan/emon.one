@@ -15,6 +15,11 @@ This is my **personal portfolio website**, built with **GatsbyJS**, to showcase 
 ✅ **SEO Optimized** – Implemented with best practices for better visibility.  
 ✅ **Fast Performance** – Built with Gatsby for speed and efficiency.  
 
+---
+<!-- GitAds-Verify: Z7A5TYGW9VB4QXIA6CKEPG5W5GLUWBQU -->
+
+---
+
 ## 🛠️ Tech Stack  
 - **Frontend**: ![Gatsby](https://img.shields.io/badge/Gatsby-5E3B8C?style=flat&logo=gatsby&logoColor=white)  
 - **Styling**: ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)  
