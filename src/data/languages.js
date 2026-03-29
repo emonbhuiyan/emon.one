@@ -11,7 +11,7 @@ export const languages = [
   },
   {
     id: "Türkçe",
-    text: "Teşekkur Ederim",
+    text: "TEŞEKKUR EDERİM",
     progress: 70,
   },
   {
