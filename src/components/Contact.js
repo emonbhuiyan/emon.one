@@ -33,20 +33,20 @@ const Contact = () => {
                 </p>
               </li>
               <li>
-                <h5>Skype</h5>
+                <h5>Alternative Email</h5>
                 <p>
-                  live:mdemonbhuiyan <span>(Seems it will down at May 2025, I will add something else here later.)</span>
+                  admin@emon.one
                 </p>
               </li>
-              <li>
+              {/* <li>
                 <h5>Social</h5>
                 <p>
                   Facebook - @emoncontact <span>(Slow response)</span>
                 </p>
-              </li>
+              </li> */}
               <li>
                 <h5>Address</h5>
-                <p>Narayanganj, Dhaka, Bangladesh - 1200</p>
+                <p>Merkez, Bingöl, Türkiye</p>
               </li>
             </ul>
           </div>

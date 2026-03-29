@@ -10,13 +10,13 @@ export const languages = [
     progress: 90,
   },
   {
-    id: "Urdu",
-    text: "شکریہ",
-    progress: 50,
+    id: "Türkçe",
+    text: "Teşekkur Ederim",
+    progress: 70,
   },
   {
     id: "Arabic",
     text: "شكرا",
-    progress: 50,
+    progress: 30,
   },
 ]
