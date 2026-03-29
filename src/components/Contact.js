@@ -38,12 +38,12 @@ const Contact = () => {
                   admin@emon.one
                 </p>
               </li>
-              {/* <li>
+              <li>
                 <h5>Social</h5>
                 <p>
                   Facebook - @emoncontact <span>(Slow response)</span>
                 </p>
-              </li> */}
+              </li>
               <li>
                 <h5>Address</h5>
                 <p>Merkez, Bingöl, Türkiye</p>
