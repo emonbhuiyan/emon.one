@@ -33,9 +33,9 @@ export const skills = {
   Languages: [
     { name: "Bengali (বাংলা)", percent: 100 },
     { name: "English", percent: 90 },
-    { name: "Arabic", percent: 30 },
     { name: "Türkçe", percent: 70 },
     { name: "Hindi/Urdu", percent: 70 },
+    { name: "Arabic", percent: 30 },
   ],
 };
 
